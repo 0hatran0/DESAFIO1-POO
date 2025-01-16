@@ -1,8 +1,8 @@
-package inovacao;
+package dio.desafio.inovacao;
 
-import dispositivos.AparelhoTelefonico;
-import dispositivos.NavegadorInternet;
-import dispositivos.ReprodutorMusical;
+import dio.desafio.dispositivos.AparelhoTelefonico;
+import dio.desafio.dispositivos.NavegadorInternet;
+import dio.desafio.dispositivos.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 

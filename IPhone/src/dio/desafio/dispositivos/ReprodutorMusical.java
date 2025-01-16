@@ -1,4 +1,4 @@
-package dispositivos;
+package dio.desafio.dispositivos;
 
 public interface ReprodutorMusical {
     public void tocar();

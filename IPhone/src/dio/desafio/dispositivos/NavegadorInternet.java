@@ -1,4 +1,4 @@
-package dispositivos;
+package dio.desafio.dispositivos;
 
 public interface NavegadorInternet {
     public void exibirPagina(String url);
